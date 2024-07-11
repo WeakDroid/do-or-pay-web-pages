@@ -1,0 +1,3 @@
+[build]
+publish = "build/web"
+command = "sh install_flutter.sh && flutter build web"
