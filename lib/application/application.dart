@@ -15,7 +15,7 @@ class DoOrPayWebApp extends StatelessWidget {
 
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LandingMainScreen(),
+      home: SupportScreen(),
     );
   }
 }
